@@ -1,2 +1,2 @@
-# DCAGAN 구축하기 (013)
-[![초보 딥러닝 강의-013 DCGAN: 한방에 끝내](https://i.ytimg.com/vi/TR79NaHtxU0/sddefault.jpg)](https://www.youtube.com/watch?v=TR79NaHtxU0)
+#pix2pix pytorch 구현
+![image](https://user-images.githubusercontent.com/43003110/145000519-d1ebc11b-c2d6-4b86-becc-dd5607708a00.png)
